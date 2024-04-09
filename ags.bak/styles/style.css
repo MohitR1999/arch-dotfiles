@@ -1,0 +1,152 @@
+.bar {
+    font-family: 'JetBrains Mono', 'JetBrainsMono Nerd Font';
+    font-size: 13px;
+}
+
+.round-border {
+    border-radius: 20px;
+}
+
+.unfocused-btn {
+    color: #fbf1c7;
+}
+
+.focused-btn {
+    background-color: #83a598;
+}
+
+.background-dark {
+    background-color: rgb(57, 57, 57);
+}
+
+.text-dark {
+    color: #fbf1c7;
+}
+
+.text-light {
+    color: #3c3836;
+}
+
+.text {
+    color: #fbf1c7;
+}
+
+.volume {
+    color: #fbf1c7;
+    border-radius: 20px;
+}
+
+.volume-aqua {
+    background-color: #689d6a;
+}
+
+.volume-orange {
+    background-color: #d65d0e;
+}
+
+.disabled {
+    background-color: rgb(57, 57, 57);
+}
+
+.utilites-button {
+    min-height: 40px;
+    min-width: 40px;
+    border-radius: 100px;
+    font-size: 30px;
+    border: 2px solid #7c6f64;
+}
+
+.utilites-button:hover {
+    background-color: #7c6f64;
+}
+
+.utilites-button:active {
+    background-color: #928374;
+}
+
+.player-button {
+    min-height: 30px;
+    min-width: 20px;
+    border-radius: 100px;
+    font-size: 15px;
+    border: 2px solid #7c6f64;
+}
+
+.player-button:hover {
+    background-color: #7c6f64;
+}
+
+.player-button:active {
+    background-color: #928374;
+}
+
+.row {
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.album-art {
+    font-size: 125px;
+}
+
+.track-title {
+    font-family: 'JetBrains Mono', 'JetBrainsMono Nerd Font';
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.track-artist {
+    font-family: 'JetBrains Mono', 'JetBrainsMono Nerd Font';
+    font-size: 13px;
+}
+
+.player {
+    /* background-color: #d65d0e; */
+}
+
+/* 
+
+.player .img {
+    min-width: 100px;
+    min-height: 100px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 13px;
+    margin-right: 1em;
+}
+
+.player .title {
+    font-size: 1.2em;
+}
+
+.player .artist {
+    font-size: 1.1em;
+    color: @insensitive_fg_color;
+}
+
+.player scale.position {
+    padding: 0;
+    margin-bottom: .3em;
+}
+
+.player scale.position trough {
+    min-height: 8px;
+}
+
+.player scale.position highlight {
+    background-color: @theme_fg_color;
+}
+
+.player scale.position slider {
+    all: unset;
+}
+
+.player button {
+    min-height: 1em;
+    min-width: 1em;
+    padding: .3em;
+}
+
+.player button.play-pause {
+    margin: 0 .3em;
+} */

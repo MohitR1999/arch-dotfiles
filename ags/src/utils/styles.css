@@ -1,0 +1,32 @@
+.bar {
+    font-family: 'JetBrainsMono NF Light';
+}
+
+.round-border {
+    border-radius: 200px;
+}
+
+.background-dark {
+    background-color: rgb(57, 57, 57);
+}
+
+.font-light {
+    font-weight: lighter;
+    color: #fbf1c7;
+}
+
+.workspace-parent {
+    background-color: rgb(57, 57, 57);
+}
+
+.workspace-button {
+    background-color: rgba(57, 57, 57, 0);
+}
+
+.active-workspace {
+    border: 1px solid #fbf1c7;
+}
+
+.inactive-workspace {
+
+}
